@@ -35,4 +35,6 @@ Best Practices
 
 For secure entry, use the official Black Ops link and mirrors only: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
 
-Update:  18.09.2025
+
+
+Update:  01.10.2025 Link is now reachable
